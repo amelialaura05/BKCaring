@@ -53,10 +53,12 @@ const numbers = [
 
 // --- Data Video Baru (GANTI YOUTUBE ID DENGAN YANG ASLI!) ---
 const videos = [
-    { title: "Pengantar Bimbingan Konseling Inklusif", youtubeId: "0ACEg7KCnFA?si=zBkooXtOKqAeR17N", description: "Video ini membahas dasar-dasar bimbingan konseling untuk peserta didik berkebutuhan khusus." },
-    { title: "Tips Mengajar Anak Autis", youtubeId: "W4WvqYBGYrY?si=WgpyKEgBSHwSisJX", description: "Panduan praktis bagi calon guru SLB dalam mengajar anak autis." },
-    { title: "Memahami Kecerdasan Beragam (Multiple Intelligences)", youtubeId: "ytd1EFbLj_k?si=hUW-S2toNVZmhtqR", description: "Mengenal berbagai jenis kecerdasan untuk pendekatan konseling yang personal." },
-    { title: "Pengembangan Diri Remaja", youtubeId: "0CywKcxODhM?si=ZS4VJTUSUTvQ4wo0", description: "Video motivasi dan tips untuk pengembangan diri yang positif bagi remaja." }
+    { title: "Layanan Peminatan di SLB", youtubeId: "0ACEg7KCnFA?si=zBkooXtOKqAeR17N", description: "" },
+    { title: "PEERTEACHING BK klasikal SLB Autis Mitra Ananda Karanganyar", youtubeId: "W4WvqYBGYrY?si=WgpyKEgBSHwSisJX", description: "" },
+    { title: "Nama-nama Hewan dalam Bahasa Isyarat", youtubeId: "Vkz90ycpLrc?si=zkYk4HnqNTJA-U_Z", description: "" },
+    { title: "Apakah guru sanggup mengajar di SLB?", youtubeId: "ytd1EFbLj_k?si=hUW-S2toNVZmhtqR", description: "" },
+    { title: "Kalimat Sehari-hari dalam Bahasa Isyarat", youtubeId: "NaafQwd0XEY?si=6l-xaRDGV7PdWpbB", description: "" },
+    { title: "Mengajar kelas Tunarungu di SLB", youtubeId: "0CywKcxODhM?si=ZS4VJTUSUTvQ4wo0", description: "" }
     // Tambahkan lebih banyak video di sini
 ];
 
